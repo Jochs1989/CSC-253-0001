@@ -1,0 +1,9 @@
+F:\Fall 2019\CSC253\M3HW2_Ochs\RandomNumberLibrary\bin\Debug\netstandard2.0\RandomNumberLibrary.deps.json
+F:\Fall 2019\CSC253\M3HW2_Ochs\RandomNumberLibrary\bin\Debug\netstandard2.0\RandomNumberLibrary.dll
+F:\Fall 2019\CSC253\M3HW2_Ochs\RandomNumberLibrary\bin\Debug\netstandard2.0\RandomNumberLibrary.pdb
+F:\Fall 2019\CSC253\M3HW2_Ochs\RandomNumberLibrary\obj\Debug\netstandard2.0\RandomNumberLibrary.csprojAssemblyReference.cache
+F:\Fall 2019\CSC253\M3HW2_Ochs\RandomNumberLibrary\obj\Debug\netstandard2.0\RandomNumberLibrary.csproj.CoreCompileInputs.cache
+F:\Fall 2019\CSC253\M3HW2_Ochs\RandomNumberLibrary\obj\Debug\netstandard2.0\RandomNumberLibrary.AssemblyInfoInputs.cache
+F:\Fall 2019\CSC253\M3HW2_Ochs\RandomNumberLibrary\obj\Debug\netstandard2.0\RandomNumberLibrary.AssemblyInfo.cs
+F:\Fall 2019\CSC253\M3HW2_Ochs\RandomNumberLibrary\obj\Debug\netstandard2.0\RandomNumberLibrary.dll
+F:\Fall 2019\CSC253\M3HW2_Ochs\RandomNumberLibrary\obj\Debug\netstandard2.0\RandomNumberLibrary.pdb
