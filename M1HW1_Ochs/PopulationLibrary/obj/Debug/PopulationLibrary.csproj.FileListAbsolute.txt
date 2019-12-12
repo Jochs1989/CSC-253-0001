@@ -1,0 +1,6 @@
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\PopulationLibrary\bin\Debug\PopulationLibrary.dll
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\PopulationLibrary\bin\Debug\PopulationLibrary.pdb
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\PopulationLibrary\obj\Debug\PopulationLibrary.csprojAssemblyReference.cache
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\PopulationLibrary\obj\Debug\PopulationLibrary.csproj.CoreCompileInputs.cache
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\PopulationLibrary\obj\Debug\PopulationLibrary.dll
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\PopulationLibrary\obj\Debug\PopulationLibrary.pdb

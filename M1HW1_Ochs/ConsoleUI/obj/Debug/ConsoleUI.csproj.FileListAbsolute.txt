@@ -1,0 +1,10 @@
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\ConsoleUI\bin\Debug\PopulationLibrary.dll
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\ConsoleUI\bin\Debug\PopulationLibrary.pdb
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\Fall 2019\CSC253\M1HW1_OchsJeffrey\ConsoleUI\obj\Debug\ConsoleUI.pdb
