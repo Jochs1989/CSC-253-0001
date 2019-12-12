@@ -1,0 +1,9 @@
+F:\Fall 2019\CSC253\M4HW1_Ochs\FactoryLibrary\bin\Debug\netstandard2.0\FactoryLibrary.deps.json
+F:\Fall 2019\CSC253\M4HW1_Ochs\FactoryLibrary\bin\Debug\netstandard2.0\FactoryLibrary.dll
+F:\Fall 2019\CSC253\M4HW1_Ochs\FactoryLibrary\bin\Debug\netstandard2.0\FactoryLibrary.pdb
+F:\Fall 2019\CSC253\M4HW1_Ochs\FactoryLibrary\obj\Debug\netstandard2.0\FactoryLibrary.csprojAssemblyReference.cache
+F:\Fall 2019\CSC253\M4HW1_Ochs\FactoryLibrary\obj\Debug\netstandard2.0\FactoryLibrary.csproj.CoreCompileInputs.cache
+F:\Fall 2019\CSC253\M4HW1_Ochs\FactoryLibrary\obj\Debug\netstandard2.0\FactoryLibrary.AssemblyInfoInputs.cache
+F:\Fall 2019\CSC253\M4HW1_Ochs\FactoryLibrary\obj\Debug\netstandard2.0\FactoryLibrary.AssemblyInfo.cs
+F:\Fall 2019\CSC253\M4HW1_Ochs\FactoryLibrary\obj\Debug\netstandard2.0\FactoryLibrary.dll
+F:\Fall 2019\CSC253\M4HW1_Ochs\FactoryLibrary\obj\Debug\netstandard2.0\FactoryLibrary.pdb
