@@ -1,0 +1,9 @@
+F:\Fall 2019\CSC253\M3HW3_Ochs\PersonCreationLibrary\bin\Debug\netstandard2.0\PersonCreationLibrary.deps.json
+F:\Fall 2019\CSC253\M3HW3_Ochs\PersonCreationLibrary\bin\Debug\netstandard2.0\PersonCreationLibrary.dll
+F:\Fall 2019\CSC253\M3HW3_Ochs\PersonCreationLibrary\bin\Debug\netstandard2.0\PersonCreationLibrary.pdb
+F:\Fall 2019\CSC253\M3HW3_Ochs\PersonCreationLibrary\obj\Debug\netstandard2.0\PersonCreationLibrary.csprojAssemblyReference.cache
+F:\Fall 2019\CSC253\M3HW3_Ochs\PersonCreationLibrary\obj\Debug\netstandard2.0\PersonCreationLibrary.csproj.CoreCompileInputs.cache
+F:\Fall 2019\CSC253\M3HW3_Ochs\PersonCreationLibrary\obj\Debug\netstandard2.0\PersonCreationLibrary.AssemblyInfoInputs.cache
+F:\Fall 2019\CSC253\M3HW3_Ochs\PersonCreationLibrary\obj\Debug\netstandard2.0\PersonCreationLibrary.AssemblyInfo.cs
+F:\Fall 2019\CSC253\M3HW3_Ochs\PersonCreationLibrary\obj\Debug\netstandard2.0\PersonCreationLibrary.dll
+F:\Fall 2019\CSC253\M3HW3_Ochs\PersonCreationLibrary\obj\Debug\netstandard2.0\PersonCreationLibrary.pdb
