@@ -1,0 +1,10 @@
+F:\Fall 2019\CSC253\M3HW1_Ochs\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\Fall 2019\CSC253\M3HW1_Ochs\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\Fall 2019\CSC253\M3HW1_Ochs\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\Fall 2019\CSC253\M3HW1_Ochs\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+F:\Fall 2019\CSC253\M3HW1_Ochs\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+F:\Fall 2019\CSC253\M3HW1_Ochs\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\Fall 2019\CSC253\M3HW1_Ochs\ConsoleUI\obj\Debug\ConsoleUI.pdb
+F:\Fall 2019\CSC253\M3HW1_Ochs\ConsoleUI\bin\Debug\RandomNumberLibrary.dll
+F:\Fall 2019\CSC253\M3HW1_Ochs\ConsoleUI\bin\Debug\RandomNumberLibrary.pdb
+F:\Fall 2019\CSC253\M3HW1_Ochs\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete

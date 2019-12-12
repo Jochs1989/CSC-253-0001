@@ -1,0 +1,9 @@
+F:\Fall 2019\CSC253\M3HW1_Ochs\ReadFileLibrary\bin\Debug\netstandard2.0\ReadFileLibrary.deps.json
+F:\Fall 2019\CSC253\M3HW1_Ochs\ReadFileLibrary\bin\Debug\netstandard2.0\ReadFileLibrary.dll
+F:\Fall 2019\CSC253\M3HW1_Ochs\ReadFileLibrary\bin\Debug\netstandard2.0\ReadFileLibrary.pdb
+F:\Fall 2019\CSC253\M3HW1_Ochs\ReadFileLibrary\obj\Debug\netstandard2.0\ReadFileLibrary.csprojAssemblyReference.cache
+F:\Fall 2019\CSC253\M3HW1_Ochs\ReadFileLibrary\obj\Debug\netstandard2.0\ReadFileLibrary.csproj.CoreCompileInputs.cache
+F:\Fall 2019\CSC253\M3HW1_Ochs\ReadFileLibrary\obj\Debug\netstandard2.0\ReadFileLibrary.AssemblyInfoInputs.cache
+F:\Fall 2019\CSC253\M3HW1_Ochs\ReadFileLibrary\obj\Debug\netstandard2.0\ReadFileLibrary.AssemblyInfo.cs
+F:\Fall 2019\CSC253\M3HW1_Ochs\ReadFileLibrary\obj\Debug\netstandard2.0\ReadFileLibrary.dll
+F:\Fall 2019\CSC253\M3HW1_Ochs\ReadFileLibrary\obj\Debug\netstandard2.0\ReadFileLibrary.pdb
