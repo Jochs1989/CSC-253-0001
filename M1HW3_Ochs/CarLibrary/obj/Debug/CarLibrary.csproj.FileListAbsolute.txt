@@ -1,0 +1,5 @@
+D:\Fall 2019\CSC253\M1HW3_OchsJeffrey\CarLibrary\bin\Debug\CarLibrary.dll
+D:\Fall 2019\CSC253\M1HW3_OchsJeffrey\CarLibrary\bin\Debug\CarLibrary.pdb
+D:\Fall 2019\CSC253\M1HW3_OchsJeffrey\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+D:\Fall 2019\CSC253\M1HW3_OchsJeffrey\CarLibrary\obj\Debug\CarLibrary.dll
+D:\Fall 2019\CSC253\M1HW3_OchsJeffrey\CarLibrary\obj\Debug\CarLibrary.pdb
