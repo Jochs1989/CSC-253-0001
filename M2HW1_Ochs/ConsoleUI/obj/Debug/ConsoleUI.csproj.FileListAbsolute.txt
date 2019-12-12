@@ -1,0 +1,14 @@
+C:\Users\ochsj6181\source\repos\M2HW1_Ochs\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\ochsj6181\source\repos\M2HW1_Ochs\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\ochsj6181\source\repos\M2HW1_Ochs\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\ochsj6181\source\repos\M2HW1_Ochs\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\ochsj6181\source\repos\M2HW1_Ochs\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\ochsj6181\source\repos\M2HW1_Ochs\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\ochsj6181\source\repos\M2HW1_Ochs\ConsoleUI\obj\Debug\ConsoleUI.pdb
+E:\Fall 2019\CSC253\M2HW1_Ochs\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+E:\Fall 2019\CSC253\M2HW1_Ochs\ConsoleUI\bin\Debug\ConsoleUI.exe
+E:\Fall 2019\CSC253\M2HW1_Ochs\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\Fall 2019\CSC253\M2HW1_Ochs\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+E:\Fall 2019\CSC253\M2HW1_Ochs\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+E:\Fall 2019\CSC253\M2HW1_Ochs\ConsoleUI\obj\Debug\ConsoleUI.exe
+E:\Fall 2019\CSC253\M2HW1_Ochs\ConsoleUI\obj\Debug\ConsoleUI.pdb
