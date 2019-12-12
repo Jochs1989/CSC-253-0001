@@ -1,0 +1,6 @@
+D:\Fall 2019\CSC253\M1HW2_OchsJeffrey\HospitalLibrary\bin\Debug\HospitalLibrary.dll
+D:\Fall 2019\CSC253\M1HW2_OchsJeffrey\HospitalLibrary\bin\Debug\HospitalLibrary.pdb
+D:\Fall 2019\CSC253\M1HW2_OchsJeffrey\HospitalLibrary\obj\Debug\HospitalLibrary.csprojAssemblyReference.cache
+D:\Fall 2019\CSC253\M1HW2_OchsJeffrey\HospitalLibrary\obj\Debug\HospitalLibrary.csproj.CoreCompileInputs.cache
+D:\Fall 2019\CSC253\M1HW2_OchsJeffrey\HospitalLibrary\obj\Debug\HospitalLibrary.dll
+D:\Fall 2019\CSC253\M1HW2_OchsJeffrey\HospitalLibrary\obj\Debug\HospitalLibrary.pdb
