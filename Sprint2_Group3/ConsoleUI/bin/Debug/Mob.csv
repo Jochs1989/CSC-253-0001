@@ -1,0 +1,5 @@
+﻿ID ,Name,Description ,HP ,AC ,Armour
+1,Goblin,a small nibble creature,10,5,3
+2,Zombie,an undead soldier,15,6,6
+3,Spider,a giant spider,20,7,9
+4,Skeleton,an undead soldier,25,8,12
