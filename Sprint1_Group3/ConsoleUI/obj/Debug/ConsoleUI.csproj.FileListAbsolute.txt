@@ -1,0 +1,7 @@
+E:\Fall 2019\CSC253\The Kingdom of Old Renown\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+E:\Fall 2019\CSC253\The Kingdom of Old Renown\ConsoleUI\bin\Debug\ConsoleUI.exe
+E:\Fall 2019\CSC253\The Kingdom of Old Renown\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\Fall 2019\CSC253\The Kingdom of Old Renown\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+E:\Fall 2019\CSC253\The Kingdom of Old Renown\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+E:\Fall 2019\CSC253\The Kingdom of Old Renown\ConsoleUI\obj\Debug\ConsoleUI.exe
+E:\Fall 2019\CSC253\The Kingdom of Old Renown\ConsoleUI\obj\Debug\ConsoleUI.pdb

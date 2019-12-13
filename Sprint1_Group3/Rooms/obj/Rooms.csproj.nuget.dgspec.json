@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Fall 2019\\CSC253\\The Kingdom of Old Renown\\Rooms\\Rooms.csproj": {}
+  },
+  "projects": {
+    "E:\\Fall 2019\\CSC253\\The Kingdom of Old Renown\\Rooms\\Rooms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Fall 2019\\CSC253\\The Kingdom of Old Renown\\Rooms\\Rooms.csproj",
+        "projectName": "Rooms",
+        "projectPath": "E:\\Fall 2019\\CSC253\\The Kingdom of Old Renown\\Rooms\\Rooms.csproj",
+        "packagesPath": "C:\\Users\\ochsj6181\\.nuget\\packages\\",
+        "outputPath": "E:\\Fall 2019\\CSC253\\The Kingdom of Old Renown\\Rooms\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ochsj6181\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
