@@ -1,0 +1,46 @@
+"ID 	",Name,Description,HP ,AC ,AttackDiceSides,Attack Dice Amount,Attack Type,mobRating,Is Dead
+101,Bat,A small bat with piercing fangs,5,12,4,1,piercing,0,FALSE
+102,RabidCat,A Tiny Cat with fangs,4,12,4,1,piercing,0,FALSE
+103,Goblin,A small nibble creature,8,10,3,2,slashing,0,FALSE
+104,Humonculus,A small contruct,10,8,5,1,blunt,0,FALSE
+105,Spider,A  Fanged spider,10,10,3,2,piercing,0,FALSE
+106,Robber,A Masked human,12,12,6,1,piercing,0,FALSE
+107,Cultist,A Robed human,10,9,5,1,magic,0,FALSE
+108,GiantRat,A Grosquest looking Giant Rat,10,12,4,2,slashing,1,FALSE
+109,Mastiff,A Giant guard dog,16,11,5,2,slashing,1,FALSE
+110,Skeleton,an undead soldier,14,10,4,2,blunt,1,FALSE
+111,Dretch,A small demonic creature,18,11,3,3,piercing,1,FALSE
+112,Drow,A Medium sized elf,15,14,4,2,piercing,1,FALSE
+113,FlyingSword,A Floating long sword,17,12,5,2,slashing,1,FALSE
+114,DustMephit,Floating elemental,17,12,5,1,magic,1,FALSE
+115,Hobgolblin,A medium humanoid creature,11,14,5,2,slashing,1,FALSE
+116,IceMephit,A floating Blue elemental,21,11,6,2,magic,2,FALSE
+117,FireMephit,A floating Red elemental,22,10,6,2,magic,2,FALSE
+118,WindMephit,A floating Green elemental,18,12,6,2,magic,2,FALSE
+119,Satyr,A medium sized demonic creature,25,13,7,2,slashing,2,FALSE
+120,AnimatedArmor,A floating set of armor,30,15,4,1,blunt,2,FALSE
+121,wyrmling,A small brass newtish creature,16,10,4,3,piercing,2,FALSE
+122,DeathDog,A undead guard dog,35,12,4,3,slashing,2,FALSE
+123,Ghoul,An Medium undead creature,22,12,6,2,blunt,2,FALSE
+124,Imp,A tiny devilish creature,10,10,4,3,piercing,2,FALSE
+125,Specter,A floating evil ghost,22,14,8,1,magic,2,FALSE
+126,Azer,A Medium sized floating elemental,48,14,5,3,blunt,3,FALSE
+127,RobberLeader,A Bulky Masked Man,55,13,5,3,slashing,3,FALSE
+128,wyrmling,A small bronze newtish creature,33,15,6,3,slashing,3,FALSE
+129,CultFanatic,A crazed Cultist,45,13,5,2,blunt,3,FALSE
+130,Gargoyle,A moving demoic looking statue,52,12,5,3,blunt,3,FALSE
+131,Wererat,A humanoid Rat,33,12,4,4,slashing,3,FALSE
+132,Mimic,A treasure chest,58,10,4,4,piercing,3,FALSE
+133,Priest,A Robbed human ,27,13,8,2,magic,3,FALSE
+134,Basilisk,A Snake like creature,75,12,6,4,piercing,4,FALSE
+135,BlueWyrmling,A small blue newtish creature,64,14,7,4,slashing,4,FALSE
+136,GreenHag,A Hunched over grotesque woman,82,13,8,3,blunt,4,FALSE
+137,HellHound,A demonic looking guard dog,66,12,10,2,slashing,4,FALSE
+138,UndeadKnight,an undead soldier covered in armor,88,15,8,3,slashing,4,FALSE
+139,Minotaur,A human looking creature with a buill head,90,14,9,2,blunt,4,FALSE
+140,Incubus,A beautiful looking humanoid figure,84,15,5,4,piercing,4,FALSE
+141,GiantLord,A Giantatic creature with a huge club ,150,13,30,1,blunt,6,FALSE
+142,KingSlayer,A Unarmored man with an enormous 2 handed sword,150,15,10,3,slashing,7,FALSE
+143,CursedWitch,A medium figure with long white hair ,150,14,5,6,Magic,8,FALSE
+144,DragonsGuard,A Knight in Dragon trimmed Armor.,150,16,6,5,piercing,9,FALSE
+145,GoldDragon,A Dragon with a bronze shimmer to it's scales.,250,13,12,5,Magic,10,FALSE

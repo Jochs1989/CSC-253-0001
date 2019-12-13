@@ -1,0 +1,69 @@
+ID ,Name,Description,Price,Can Equipt,Damage Type,Dice Amount,Dice Sides,Upgrades
+201,Light sword,A Short sword.,10,TRUE,slashing,1,4,0
+202,Warped Staff,A 2 handed staff,10,TRUE,blunt,1,4,0
+203,Dagger,A Short dagger,10,TRUE,slashing,1,4,0
+204,Light Hammer,A 2 handed Hammer,10,TRUE,blunt,1,4,0
+205,Great Club,A 2-handed club,50,TRUE,blunt,1,8,1
+206,Javelin,A 2 handed staff,50,TRUE,peircing,1,6,1
+207,Mace,2 Short daggers,50,TRUE,blunt,1,6,1
+208,Spear,A 2 handed Hammer,50,TRUE,peircing,1,6,1
+209,Great Sword,2 Short daggers,60,TRUE,slashing,2,6,1
+210,Scimitar,2 Short daggers,60,TRUE,slashing,1,6,1
+211,Trident,A 2 handed Hammer,70,TRUE,peircing,1,6,1
+212,Maul,A 2 handed Hammer,70,TRUE,blunt,2,6,1
+213,Lance,A Short sword,75,TRUE,peircing,1,12,1
+214,Rapier,A 2 handed staff,75,TRUE,peircing,1,8,1
+215,Dual Daggers,2 Short daggers,100,TRUE,slashing,2,4,1
+216,Glaive,A 2 handed staff,100,TRUE,slashing,1,10,1
+217,Battleaxe,A Short sword,100,TRUE,slashing,1,12,1
+218,Halberd,A 2 handed Hammer,100,TRUE,slashing,1,10,1
+219,Whip,A Short sword,50,TRUE,blunt,1,4,1
+220,Warhammer,A 2 handed staff,100,TRUE,blunt,1,8,1
+221,Gold Great Club,A 2-handed club,200,TRUE,blunt,1,8,2
+222,Gold Javelin,A 2 handed staff,200,TRUE,peircing,1,6,2
+223,Gold Mace,2 Short daggers,200,TRUE,blunt,1,6,2
+224,Gold Spear,A 2 handed Hammer,225,TRUE,peircing,1,6,2
+225,Gold Great Sword,2 Short daggers,225,TRUE,slashing,2,6,2
+226,Gold Scimitar,2 Short daggers,225,TRUE,slashing,1,6,2
+227,Gold Trident,A 2 handed Hammer,230,TRUE,peircing,1,6,2
+228,Gold Maul,A 2 handed Hammer,230,TRUE,blunt,2,6,2
+229,Gold Lance,A Short sword,240,TRUE,peircing,1,12,2
+230,Gold Rapier,A 2 handed staff,240,TRUE,peircing,1,8,2
+231,Gold Dual Daggers,2 Short daggers,250,TRUE,slashing,2,4,2
+232,Gold Glaive,A 2 handed staff,250,TRUE,slashing,1,10,2
+233,Gold Battleaxe,A Short sword,260,TRUE,slashing,1,12,2
+234,Gold Halberd,A 2 handed Hammer,270,TRUE,slashing,1,10,2
+235,Gold Whip,A Short sword,225,TRUE,blunt,1,4,2
+236,Gold Warhammer,A 2 handed staff,270,TRUE,blunt,1,8,2
+237,Crystal Great Club,A 2-handed club,350,TRUE,blunt,1,8,3
+238,Crystal Javelin,A 2 handed staff,350,TRUE,peircing,1,6,3
+239,Crystal Mace,2 Short daggers,350,TRUE,blunt,1,6,3
+240,Crystal Spear,A 2 handed Hammer,375,TRUE,peircing,1,6,3
+241,Crystal Great Sword,2 Short daggers,375,TRUE,slashing,2,6,3
+242,Crystal Scimitar,2 Short daggers,375,TRUE,slashing,1,6,3
+243,Crystal Trident,A 2 handed Hammer,390,TRUE,peircing,1,6,3
+244,Crystal Maul,A 2 handed Hammer,390,TRUE,blunt,2,6,3
+245,Crystal Lance,A Short sword,400,TRUE,peircing,1,12,3
+246,Crystal Rapier,A 2 handed staff,400,TRUE,peircing,1,8,3
+247,Crystal Dual Daggers,2 Short daggers,410,TRUE,slashing,2,4,3
+248,Crystal Glaive,A 2 handed staff,420,TRUE,slashing,1,10,3
+249,Crystal Battleaxe,A Short sword,430,TRUE,slashing,1,12,3
+250,Crystal Halberd,A 2 handed Hammer,430,TRUE,slashing,1,10,3
+251,Crystal Whip,A Short sword,390,TRUE,blunt,1,4,3
+252,Crystal Warhammer,A 2 handed staff,450,TRUE,blunt,1,8,3
+253,Dragon Great Club,A 2-handed club,1000,TRUE,blunt,1,8,4
+254,Dragon Javelin,A 2 handed staff,1000,TRUE,peircing,1,6,4
+255,Dragon Mace,2 Short daggers,1000,TRUE,blunt,1,6,4
+256,Dragon Spear,A 2 handed Hammer,1050,TRUE,peircing,1,6,4
+257,Dragon Great Sword,2 Short daggers,1050,TRUE,slashing,2,6,4
+258,Dragon Scimitar,2 Short daggers,1075,TRUE,slashing,1,6,4
+259,Dragon Trident,A 2 handed Hammer,1075,TRUE,peircing,1,6,4
+260,Dragon Maul,A 2 handed Hammer,1075,TRUE,blunt,2,6,4
+261,Dragon Lance,A Short sword,1100,TRUE,peircing,1,12,4
+262,Dragon Rapier,A 2 handed staff,1100,TRUE,peircing,1,8,4
+263,Dragon Dual Daggers,2 Short daggers,1150,TRUE,slashing,2,4,4
+264,Dragon Glaive,A 2 handed staff,1150,TRUE,slashing,1,10,4
+265,Dragon Battleaxe,A Short sword,1200,TRUE,slashing,1,12,4
+266,Dragon Halberd,A 2 handed Hammer,1200,TRUE,slashing,1,10,4
+267,Dragon Whip,A Short sword,1100,TRUE,blunt,1,4,4
+268,Dragon Warhammer,A 2 handed staff,1250,TRUE,blunt,1,8,4

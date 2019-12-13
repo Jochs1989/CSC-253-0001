@@ -1,0 +1,88 @@
+E:\Fall 2019\CSC253\Sprint2_Group3_Project\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+E:\Fall 2019\CSC253\Sprint2_Group3_Project\ConsoleUI\bin\Debug\ConsoleUI.exe
+E:\Fall 2019\CSC253\Sprint2_Group3_Project\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\Fall 2019\CSC253\Sprint2_Group3_Project\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.dll
+E:\Fall 2019\CSC253\Sprint2_Group3_Project\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.pdb
+E:\Fall 2019\CSC253\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+E:\Fall 2019\CSC253\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+E:\Fall 2019\CSC253\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+E:\Fall 2019\CSC253\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.exe
+E:\Fall 2019\CSC253\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.pdb
+E:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+E:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\bin\Debug\ConsoleUI.exe
+E:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.dll
+E:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.pdb
+E:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+E:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+E:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+E:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.exe
+E:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.pdb
+F:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.dll
+F:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.pdb
+F:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+F:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+F:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+F:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\5th Semester\C#\Project\Current_Copy\Group_3-master\Group_3-master\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Null\Desktop\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Null\Desktop\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Null\Desktop\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Null\Desktop\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.dll
+C:\Users\Null\Desktop\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.pdb
+C:\Users\Null\Desktop\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Null\Desktop\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Null\Desktop\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Null\Desktop\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Null\Desktop\TheKingdomOfOldRenown\Sprint2_Group3_Project\ConsoleUI\obj\Debug\ConsoleUI.pdb
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.dll
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.pdb
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.pdb
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.dll
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.pdb
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\Fall 2019\CSC253\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.pdb
+F:\5th Semester\Adv_C#\Project\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\5th Semester\Adv_C#\Project\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\5th Semester\Adv_C#\Project\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\5th Semester\Adv_C#\Project\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.dll
+F:\5th Semester\Adv_C#\Project\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.pdb
+F:\5th Semester\Adv_C#\Project\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+F:\5th Semester\Adv_C#\Project\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+F:\5th Semester\Adv_C#\Project\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\5th Semester\Adv_C#\Project\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Null\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Null\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Null\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Null\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.dll
+C:\Users\Null\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.pdb
+C:\Users\Null\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Null\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Null\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Null\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Null\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\ochsj6181\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\ochsj6181\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\ochsj6181\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\ochsj6181\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\ochsj6181\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\ochsj6181\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\ochsj6181\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.dll
+C:\Users\ochsj6181\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\bin\Debug\DungeonCrawlerLibrary.pdb
+C:\Users\ochsj6181\Documents\GitHub\Group_3\TheKingdomOfOldRenown\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete

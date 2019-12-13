@@ -1,0 +1,5 @@
+ID,Name,Description,Price,Can Use,Quest Item
+501,South West Key,Unlocks south west door,0,TRUE,TRUE
+502,South East Key,Unlocks south east door,0,TRUE,TRUE
+503,North West Key,Unlocks North West Door,0,TRUE,TRUE
+504,North East Key,Unlocks North East Door,0,TRUE,TRUE

@@ -1,0 +1,56 @@
+"ID	",RoomName ,Room Description,North,South ,East ,West,Up,Down,MobChance
+1,Pasture,An empty Meadow with a small village ahead.,2,-1,-1,-1,-1,-1,-1
+2,City Road,A road winding though the village.,3,1,5,6,-1,-1,-1
+3,City Road,A road winding though the village.,8,2,4,7,-1,-1,-1
+4,Blacksmith's house,A Blacksmith is hard at work.,-1,5,-1,3,-1,-1,-1
+5,Alchemist's house,An Alchemist is hard at work.,4,-1,-1,2,-1,-1,-1
+6,Weapon Dealer,A Weapon Dealer is hard at work.,7,-1,2,-1,-1,-1,-1
+7,Gambler,A Gambler is hard at work.,-1,6,3,-1,-1,-1,-1
+8,Castle Gate,You see a giant gate leading to an abandoned castle.,9,3,-1,-1,-1,-1,-1
+9,Grand Foyer,You are in a very quiet open area with worn paintings and armor for display.,-1,-1,10,24,-1,-1,0
+10,Right Wing Hall,You start to walk down a hall.,-1,-1,11,9,-1,-1,0
+11,Right Wing Hall,You stand at a junction where the hall leads (west) (north) or (east) to a stairwell.,12,-1,16,10,-1,-1,0
+12,Right Wing Hall,You are heading though the first corridor of an eerily lit hall.,13,11,17,-1,-1,-1,1
+13,Right Wing Hall,You are heading though the second corridor of an eerily lit hall.,14,12,18,-1,-1,-1,1
+14,Right Wing Hall,You are heading though the third corridor of an eerily lit hall.,15,13,19,-1,-1,-1,1
+15,Right Wing Hall,You stand at a junction where the hall leads (west) (south) or (east) to a stairwell.,-1,14,20,21,-1,-1,3
+16,South East Stairway,You are in the south east stairway. Looks like the stairway only leads up. You see a portal on the north wall showing the village entrance.,1,-1,11,-1,37,-1,-1
+17,Drawing Room,You see paintings all around and a canvas with … your image?,-1,-1,12,-1,-1,-1,1
+18,Dinning Hall,You see a table layout as if expecting guests…,19,-1,13,-1,-1,-1,1
+19,Kitchen,A pungent sour smell fills the air. Did they really cook food here?,-1,18,14,-1,-1,-1,1
+20,North East Stairway,You are in the north east stairway. Looks like the stairway only leads up. You see a portal on the north wall showing the village entrance.,1,-1,15,-1,36,-1,-1
+21,Great Hall,Walking down the first second of a corridor. You can barely see the ceiling and every footstep leaves an echo.,-1,-1,22,15,-1,-1,3
+22,Great Hall,Walking down the second second of a corridor. You can barely see the ceiling and every footstep leaves an echo.,-1,-1,23,21,-1,-1,3
+23,Great Hall,Walking down the third second of a corridor. You can barely see the ceiling and every footstep leaves an echo.,-1,-1,24,22,-1,-1,3
+24,Left Wing Hall,You stand at a junction where the hall leads (east) (south) or (west) to a stairwell.,-1,25,30,23,-1,-1,3
+25,Left Wing Hall,You are heading though the third corridor of an eerily lit hall.,24,26,-1,31,-1,-1,2
+26,Left Wing Hall,You are heading though the second corridor of an eerily lit hall.,25,27,-1,32,-1,-1,2
+27,Left Wing Hall,You are heading though the first corridor of an eerily lit hall.,26,28,-1,33,-1,-1,2
+28,Left Wing Hall,You stand at a junction where the hall leads (east) (north) or (west) to a stairwell.,27,-1,29,34,-1,-1,0
+29,Left Wing Hall,You start to walk down a hall.,-1,-1,9,28,-1,-1,0
+30,North West Stairway,You are in the north west stairway. Looks like the stairway only leads up. You see a portal on the north wall showing the village entrance.,1,-1,28,-1,36,-1,-1
+31,Billard Room,You see a billard table with the balls line up. They read 5709.,-1,32,25,-1,-1,-1,2
+32,Music Room,A slow melody plays. You feel warm... comfortable... tired…so very tired.,31,33,26,-1,-1,-1,2
+33,Cloak Room,Coats... coats everywhere. Literally everywhere someone should really clean up,32,-1,27,-1,-1,-1,2
+34,South West Stairway,You are in the south west stairway. Looks like the stairway only leads up. You see a portal on the north wall showing the village entrance.,1,-1,28,-1,35,-1,-1
+35,South West Stairway,You are in the south west stairway second floor. Looks like the stairway only leads down.,45,-1,39,-1,-1,34,-1
+36,North East Stairway,You are in the north east stairway second floor. Looks like the stairway only leads down.,-1,42,-1,48,-1,20,-1
+37,South East Stairway,You are in the south east stairway second floor. Looks like the stairway only leads down.,44,-1,-1,41,-1,18,-1
+38,North West Stairway,You are in the north west stairway second floor. Looks like the stairway only leads down.,-1,47,50,-1,-1,30,-1
+39,South Hallway Landing,You are walking in the south corridor on the second floor. This is the first section of the corridor.,-1,-1,40,35,-1,-1,4
+40,South Hallway Landing,You are walking in the south corridor on the second floor. This is the second section of the corridor.,51,-1,41,39,-1,-1,4
+41,South Hallway Landing,You are walking in the south corridor on the second floor. This is the third section of the corridor.,-1,-1,37,40,-1,-1,4
+42,East Hallway Landing,You are walking in the east corridor on the second floor. This is the first section of the corridor.,36,43,-1,-1,-1,-1,4
+43,East Hallway Landing,You are walking in the east corridor on the second floor. This is the second section of the corridor.,42,44,52,-1,-1,-1,4
+44,East Hallway Landing,You are walking in the east corridor on the second floor. This is the third section of the corridor.,43,37,-1,-1,-1,-1,4
+45,West Hallway Landing,You are walking in the west corridor on the second floor. This is the first section of the corridor.,46,35,-1,-1,-1,-1,4
+46,West Hallway Landing,You are walking in the west corridor on the second floor. This is the second section of the corridor.,47,45,53,-1,-1,-1,4
+47,West Hallway Landing,You are walking in the west corridor on the second floor. This is the third section of the corridor.,38,46,-1,-1,-1,-1,4
+48,North Hallway Landing,You are walking in the north corridor on the second floor. This is the first section of the corridor.,-1,-1,36,49,-1,-1,4
+49,North Hallway Landing,You are walking in the north corridor on the second floor. This is the second section of the corridor.,-1,54,48,50,-1,-1,4
+50,North Hallway Landing,You are walking in the north corridor on the second floor. This is the third section of the corridor.,-1,-1,49,38,-1,-1,4
+51,Dark Room,It is hard to see but you feel small… almost like something enormous is drawfing you.,55,40,-1,-1,-1,-1,6
+52,Dark Room,You are in the presence of a warrior… Unrelenting to complete his duty!,-1,-1,43,55,-1,-1,7
+53,Dark Room,A wicked presence is in your midst. You hear very faint curses and agony.,-1,-1,55,46,-1,-1,8
+54,Dark Room,A dragon with a humanoid figure? No a knight covered in dragon armor!,49,55,-1,-1,-1,-1,9
+55,Treasure Room,Gold…SO MUCH GOLD!!! You will be rich… but isn't it a little warm?,54,51,52,53,-1,-1,10

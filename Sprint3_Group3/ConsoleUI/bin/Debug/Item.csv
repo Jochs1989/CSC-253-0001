@@ -1,0 +1,22 @@
+ID,Name,Description,Price,can use
+401,Rock,A literal rock,10,FALSE
+402,Rock,A literal rock,10,FALSE
+403,Rock,A literal rock,10,FALSE
+404,Rock,A literal rock,10,FALSE
+405,Broken Bottle,A useless bottle,10,FALSE
+406,Broken Bottle,A useless bottle,10,FALSE
+407,Broken Bottle,A useless bottle,10,FALSE
+408,Broken Bottle,A useless bottle,10,FALSE
+409,Home Beacon,Returns player to the start,50,TRUE
+410,Home Beacon,Returns player to the start,50,TRUE
+411,Coin Pouch,Can be sold for 20 gold,200,FALSE
+412,Coin Pouch,Can be sold for 20 gold,200,FALSE
+413,Coin Pouch,Can be sold for 20 gold,200,FALSE
+414,Amulet,Precious amulet that looks like it sells for a lot ,500,FALSE
+415,Amulet,Precious amulet that looks like it sells for a lot ,500,FALSE
+416,Ruby,A small precious red stone,500,FALSE
+417,Emerald,A small precious green stone,1500,FALSE
+418,Sapphire,A small precious blue stone,2000,FALSE
+419,Teleport Stone,Used to teleport anywhere in the castle's first floor,100,TRUE
+420,Mythril Stone,Used to upgrade your weapons Max Damage,100,FALSE
+421,Adamantite  Stone,Used to upgrade your weapons Max Hits,100,FALSE
